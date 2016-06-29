@@ -4,7 +4,7 @@ This will configure automatic authentication and transfer to GitHub _via_ SSH, s
 for user name and password.
  
 The steps involved are roughly summarized below. For full details, please follow the
-tutorials referenced below.
+links provided.
 
 :one: Generate a SSH key
 
