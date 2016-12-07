@@ -20,3 +20,10 @@ git checkout newbranch
 git push --set-upstream origin newbranch
 ```
 
+### :notes: **Resolve conflicts**
+
+```shell
+git branch --create newbranch
+git checkout newbranch
+git push --set-upstream origin newbranch
+```
