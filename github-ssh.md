@@ -14,6 +14,8 @@ ssh-keygen -t rsa -C "your@email.com"
 ssh-add ~/.ssh/id_rsa
 ```
 
+**Note** if `ssh-add ...` above fails: run `eval ``ssh-agent -s`` ` and retry
+
 (https://help.github.com/articles/generating-ssh-keys/)
 
 :two: Open file _ ~/.ssh/id_rsa.pub_ using any text editor and copy its contents to the clipboard (Ctrl+C)
