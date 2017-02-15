@@ -9,6 +9,6 @@ Break down todo list.
 
 - Trello
 - Slack
-- Google TODO
+- Google TODO, Google Keep
 - "gráfico dos quadrantes": importância *vs* urgência
 - Toggl
