@@ -4,6 +4,8 @@
 
 :notes: Modify Sphink `Makefile` to build into that new directory
 
+:notes: Enter directory `html` and switch to branch gh-pages
+
 :notes: Touch `.nojekyll`
 
 :notes: Create file 404.html with contents:
