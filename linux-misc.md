@@ -1,4 +1,24 @@
-# Linux Miscellanea
+# Linux Command Cheat Sheet
+
+## CRLF :arrow_right: LF
+
+```
+dos2unix <input> <output>
+```
+
+## Rename many files at once
+
+```
+mmv "flux.*" "flux_opa.#1"
+```
+
+:notes: don't forget the quotes
+
+## Create PDF poster
+
+```
+pdfposter -p a2 <input> <output>
+```
 
 ## Change time
 
