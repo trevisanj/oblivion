@@ -20,10 +20,14 @@ git checkout newbranch
 git push --set-upstream origin newbranch
 ```
 
-### :notes: **Resolve conflicts**
+### :notes: **Reset local to match origin**
 
 ```shell
-git branch --create newbranch
-git checkout newbranch
-git push --set-upstream origin newbranch
+git fetch origin
+git reset --hard origin/master
 ```
+
+:notes: **Seeing diff**: `git diff b7de eab0 nulbad.f90`
+
+:notes: **Recover deleted file**: `git checkout nulbad.py`
+
