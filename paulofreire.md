@@ -1,123 +1,70 @@
 # Ensinar exige ...
 
-rigorosidade metódica
+rigorosidade metódica,
 
-pesquisa
+pesquisa,
 
-respeito aos saberes dos educandos
+respeito aos saberes dos educandos,
 
-criticidade
+criticidade,
 
-estética e ética
+estética e ética,
 
-corporeificação das palavras pelo exemplo
+corporeificação das palavras pelo exemplo,
 
-risco
+risco,
 
-aceitação do novo
+aceitação do novo,
 
-rejeição de qualquer forma de discriminação
+rejeição de qualquer forma de discriminação,
 
-reflexão crítica sobre a prática
+reflexão crítica sobre a prática,
 
-reconhecimento da identidade cultural
+reconhecimento da identidade cultural,
 
-consciência do inacabamento
+consciência do inacabamento,
 
-reconhecimento do ser condicionado
+reconhecimento do ser condicionado,
 
-respeito à autonomia do ser do educando
+respeito à autonomia do ser do educando,
 
-bom senso
+bom senso,
 
-humildade
+humildade,
 
+tolerância,
 
-tolerância
+luta em defesa dos direitos dos educadores,
 
-luta em defesa dos direitos dos educadores
+apreensão da realidade,
 
-apreensão da realidade
+alegria e esperança,
 
+convicção de que a mudança é possível,
 
-alegria
+curiosidade,
 
-esperança
+segurança,
 
-convicção de que a mudança é possível
+competência profissional,
 
-curiosidade
+generosidade,
 
-segurança
+comprometimento,
 
+compreender que a educação é uma forma de intervenção no mundo,
 
-competência profissinal,
+liberdade e autoridade,
 
+tomada consciente de decisões,
 
+saber escutar,
 
+reconhecer que a educação é ideológica,
 
+disponibilidade para o diálogo e
 
-gener# Ensinar exige ...
-
-rigorosidade metódica
-
-pesquisa
-
-respeito aos saberes dos educandos
-
-criticidade
-
-estética e ética
-
-corporeificação das palavras pelo exemplo
-
-risco
-
-aceitação do novo
-
-rejeição de qualquer forma de discriminação
-
-reflexão crítica sobre a prática
-
-reconhecimento da identidade cultural
-
-consciência do inacabamento
-
-reconhecimento do ser condicionado
-
-respeito à autonomia do ser do educando
-
-bom senso
-
-humildade
-
-
-tolerância
-
-luta em defesa dos direitos dos educadores
-
-apreensão da realidade
-
-
-alegria
-
-esperança
-
-convicção de que a mudança é possível
-
-curiosidade
-
-segurança
-
-
-competência profissinal,
-
-
-
-
-
-generosidadeosidade,comprometimento, compreender que a educação é uma forma de intervenção no mundo, liberdade e autoridade,
-
+querer bem aos educandos.
 
 
 _Extraído do sumário do livro "Pedagogia da autonomia" de Paulo Freire_
