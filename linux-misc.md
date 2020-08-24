@@ -1,3 +1,7 @@
+## USB mount point
+
+```/run/user/1000/gvfs```[...]
+
 # Linux Command Cheat Sheet
 
 ## CRLF :arrow_right: LF
