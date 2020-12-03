@@ -1,8 +1,15 @@
+# Linux Command Cheat Sheet
+
+## Annoying "obex 0x53" error
+
+```
+systemctl --user start obex
+sudo systemctl --global enable obex
+```
+
 ## USB mount point
 
 ```/run/user/1000/gvfs```[...]
-
-# Linux Command Cheat Sheet
 
 ## CRLF :arrow_right: LF
 
