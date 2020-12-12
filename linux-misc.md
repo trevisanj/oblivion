@@ -1,6 +1,12 @@
 # Linux Command Cheat Sheet
 
-## Annoying "obex 0x53" error
+## Create timelapse from photos
+
+```
+ffmpeg -framerate 30 -pattern_type glob -i "./*.JPG" -s:v 720x540 -c:v libx264 -crf 17 -pix_fmt yuv420p my-timelapse.mp4
+```
+
+## Bluetooth: annoying "obex 0x53" error
 
 ```
 systemctl --user start obex
