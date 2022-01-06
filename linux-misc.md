@@ -41,6 +41,18 @@ mmv "flux.*" "flux_opa.#1"
 
 ## Create PDF poster
 
+Here are two ways. The new way is to replace the other one, which didn't work for me today (20211119).
+
+### New way
+
+This is a very interesting way: instead of specifying the page size, one specifies how many times to split "x-wise" and
+"y-wise".
+
+```
+mutool poster -x 2 -y 2 borderline0.pdf borderline0-x2-y2.pdf
+```
+
+### Not working as of 20211119
 ```
 pdfposter -p a2 <input> <output>
 ```
