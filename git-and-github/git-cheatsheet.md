@@ -1,5 +1,16 @@
 # git cheat sheet
 
+### :notes: **Override ```.gitignore``` directive**
+
+When you want to "re-include" files excluded by a ```.gitignore``` from an upper directory, simply do as follows:
+
+```
+!*png
+```
+
+The above example will ensure ```*png``` files will be included. 
+
+
 ### :notes: **Resync repo with new `.gitignore` file**
 
 ```shell
