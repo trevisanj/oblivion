@@ -6,6 +6,12 @@
 pdftoppm input.pdf outputprefix -png
 ```
 
+## Create PDF from a series of PNG files
+
+```
+convert ... output.pdf
+```
+
 ## Create timelapse from photos
 
 ```
@@ -92,4 +98,18 @@ sudo hwclock --systohc
 
 ```
 du -sh directoryname
+```
+
+## List processes
+
+Of certain user:
+
+```
+ps -u username
+```
+
+Showing command line:
+
+```
+ps -c
 ```
